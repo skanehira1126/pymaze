@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#additional
+./maze_graph*
+./astar_graph*
+*.gif

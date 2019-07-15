@@ -104,6 +104,10 @@ venv.bak/
 .mypy_cache/
 
 #additional
-./maze_graph*
-./astar_graph*
+./maze_graph
+./astar_graph
+*.png
 *.gif
+
+#Mac
+.DS_Store
